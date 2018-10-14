@@ -2,5 +2,7 @@
 
 int main(){
   
+  printf("error solved");
+  
   return 0;
 }
